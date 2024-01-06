@@ -30,10 +30,6 @@ Malayan Colleges Laguna**
 
 <h3 align="left"> 👾 Hobbies & Interests 👾 </h3>
 
-<div align="center"> <img width=500 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDh2YjQ4NG5nNHZyenNybjJsNGQ2MTEwOTRqejA4ZmdkdGR2bGV4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FBDXrXYNkggiPAg4U6/200.gif"> </div>
-
-<br /> 
-
 - 👩‍🦱 I like playing videogames like valorant, New World
 
 - 👩‍🎓 I love watching youtube especially **horror gameplays**
@@ -44,6 +40,9 @@ Malayan Colleges Laguna**
 
 <br />
 
+<div align="center"> <img width=500 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDh2YjQ4NG5nNHZyenNybjJsNGQ2MTEwOTRqejA4ZmdkdGR2bGV4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FBDXrXYNkggiPAg4U6/200.gif"> </div>
+
+
 <hr>
 
 <h3 align="left">🖇️ Connect with Me 🖇️</h3>
@@ -53,5 +52,18 @@ Malayan Colleges Laguna**
 
 <hr>
 
+<h3 align="left">👩‍💻 Languages I Know/Use 👩‍💻</h3>
 
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<hr>
+
+
+
+
+# <div align="center"> [<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFwYmZkOWllYzhzd2ppZWthbmV3c3YwcDZxNzBwbHQ3NnZrYTA0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJ4Iwn65LCTrzZxWPU/giphy.gif" alt="Bye!! " width=600 title="Hello!!"/>](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hpaHYyZnFjbGRyZzhwcjQ4cG01eHVoZGNudTMxMW03cTRkMTRpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7TwYOahsPpIJABom26/giphy.gif) </div>
 
