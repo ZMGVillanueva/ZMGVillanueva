@@ -26,5 +26,12 @@ Malayan Colleges Laguna**
 
 - My specialty is ✨**Web Design**✨
 
+<hr>
 
+<h3 align="left">🖇️ Connect with Me:</h3>
+
+[![Gmail](https://img.shields.io/badge/-zhenmarie.mcl@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zhenmarie.mcl@gmail.com)](mailto:zhenmarie.mcl@gmail.com)
+[![Discord](https://img.shields.io/badge/-YukWan*4650-5865F2?style=for-the-badge&logo=Discord&logoColor=white&link=https://www.discordapp.com/users/454186641754685463/)](https://www.discordapp.com/users/454186641754685463/)
+
+<hr>
 
