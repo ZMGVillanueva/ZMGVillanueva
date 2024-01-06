@@ -13,7 +13,10 @@
 ## <br />💡 About Me 💡
 <img align="right" alt="Coding" width=300 src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
 
-<p align="left">
+
+<br />
+<br />
+
 - 👩‍🦱 My name is **Zhen Marie G. Villanueva**
 
 - 👩‍🎓 A second year college student in **Mapuá 
@@ -23,5 +26,4 @@ Malayan Colleges Laguna**
 
 - My specialty is ✨**Web Design**✨
 
-</p>
 
