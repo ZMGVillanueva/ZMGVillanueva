@@ -15,7 +15,8 @@
 
 - 👩‍🦱 My name is **Zhen Marie G. Villanueva**
 
-- 👩‍🎓 A second year college student in **Mapuá Malayan Colleges Laguna**
+- 👩‍🎓 A second year college student in **Mapuá 
+Malayan Colleges Laguna**
 
 - 🏫 I’m currently taking the course  **Computer Science**
 
