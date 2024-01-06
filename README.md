@@ -13,9 +13,11 @@
 ## <br />💡 About Me 💡
 <img align="right" alt="Coding" width=200 src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
 
-- My name is *Zhen Marie G. Villanueva*, A second year college student in **Mapuá Malayan Colleges Laguna**
+- 👩‍🦱 My name is **Zhen Marie G. Villanueva**
+
+- 👩‍🎓 A second year college student in **Mapuá Malayan Colleges Laguna**
 
 - 🏫 I’m currently taking the course  **Computer Science**
 
-
+- My specialty is ✨**Web Design**✨
 
