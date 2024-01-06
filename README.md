@@ -9,11 +9,12 @@
 
 <hr>
 
- **<div align="center">🦌 Hello!! 🦌</div>**
+ <h2> <div align="center">🦌 Hello!! 🦌</div> </h2>
  
-<hr>
 
-## <br />💡 About Me 💡
+
+
+<h3 align="left">💡 About Me 💡</h3>
 <img align="right" alt="Coding" width=300 src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
 
 <br />
