@@ -28,6 +28,25 @@ Malayan Colleges Laguna**
 
 <hr>
 
+<h3> 👾 Hobbies & Interests 👾 </h3>
+<img align="left" alt="Coding" width=300 src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
+
+<br />
+<br />
+
+- 👩‍🦱 I like playing videogames like valorant, New World
+
+- 👩‍🎓 I love watching youtube especially **horror gameplays**
+
+- 🏫 I’m currently taking the course  **Computer Science**
+
+- My specialty is ✨**Web Design**✨
+
+<br />
+<br />
+<br />
+<hr>
+
 <h3 align="left">🖇️ Connect with Me 🖇️</h3>
 
 [![Gmail](https://img.shields.io/badge/-zhenmarie.mcl@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zhenmarie.mcl@gmail.com)](mailto:zhenmarie.mcl@gmail.com)
