@@ -30,7 +30,7 @@ Malayan Colleges Laguna**
 
 <h3 align="left"> 👾 Hobbies & Interests 👾 </h3>
 
-- 👩‍🦱 I like playing videogames like valorant, New World
+- 👩‍🦱 I like playing videogames like valorant, New World, Minecraft, LoL and Destiny 2
 
 - 👩‍🎓 I love watching youtube especially **horror gameplays**
 
