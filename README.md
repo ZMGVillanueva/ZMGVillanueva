@@ -29,10 +29,9 @@ Malayan Colleges Laguna**
 <hr>
 
 <h3> 👾 Hobbies & Interests 👾 </h3>
-<img align="left" alt="Coding" width=300 src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
+<img align="left" alt="Coding" width=300 src="https://i.pinimg.com/originals/e9/78/c8/e978c8bea16fb1af7429f1d70c3c10ac.gif">
 
-<br />
-<br />
+<br /> 
 
 - 👩‍🦱 I like playing videogames like valorant, New World
 
@@ -43,8 +42,7 @@ Malayan Colleges Laguna**
 - My specialty is ✨**Web Design**✨
 
 <br />
-<br />
-<br />
+
 <hr>
 
 <h3 align="left">🖇️ Connect with Me 🖇️</h3>
