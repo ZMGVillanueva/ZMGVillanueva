@@ -28,8 +28,9 @@ Malayan Colleges Laguna**
 
 <hr>
 
-<h3> 👾 Hobbies & Interests 👾 </h3>
-<img align="left" alt="Coding" width=300 src="https://i.pinimg.com/originals/e9/78/c8/e978c8bea16fb1af7429f1d70c3c10ac.gif">
+<h3 align="left"> 👾 Hobbies & Interests 👾 </h3>
+
+<img align="center" alt="header" width=400 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDh2YjQ4NG5nNHZyenNybjJsNGQ2MTEwOTRqejA4ZmdkdGR2bGV4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FBDXrXYNkggiPAg4U6/200.gif">
 
 <br /> 
 
