@@ -1,6 +1,6 @@
 # <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZMGVillanueva&label=Profile%20views&color=990402&style=for-the-badge" alt="ZMGVILLANUEVA" /> </p>
 
-# <div align="center"> [<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV5aWE0MTdxbWRud3BmOWFqZjZiMHcxc21jaXA5b2RpZmdqd3dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TE7u1JdawjEwr6suhU/200.gif" alt="Hello!! I'm Villanueva, Zhen Marie" width=600 title="Hello!!"/>](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hpaHYyZnFjbGRyZzhwcjQ4cG01eHVoZGNudTMxMW03cTRkMTRpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7TwYOahsPpIJABom26/giphy.gif) </div>
+# <div align="center"> [<img src="https://media.giphy.com/media/TE7u1JdawjEwr6suhU/giphy.gif" alt="Hello!! I'm Villanueva, Zhen Marie" width=600 title="Hello!!"/>](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hpaHYyZnFjbGRyZzhwcjQ4cG01eHVoZGNudTMxMW03cTRkMTRpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7TwYOahsPpIJABom26/giphy.gif) </div>
 
 
 <h1 align="center">🦌 Hello!! 🦌 </h1>
@@ -57,13 +57,38 @@ Malayan Colleges Laguna**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/Csharp-9b4993.svg?style=for-the-badge&logo=Csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-659ad2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <hr>
 
+<h3> Git Cheat Sheet: Basics </h3>
 
+**1. git add**<br />
+    *What it does:* Adds changes to the list of things Git will save.<br />
+    *When to use it:* After making changes to your project, you want to save them in Git.<br />
+    *Example:* git add file.txt<br /><br />
 
+**2. git push**<br />
+    *What it does:* Uploads your saved changes to the internet.<br />
+    *When to use it:* When you're ready to share your changes with others on platforms like GitHub.<br />
+    *Example:* git push origin main<br /><br />
 
-# <div align="center"> [<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFwYmZkOWllYzhzd2ppZWthbmV3c3YwcDZxNzBwbHQ3NnZrYTA0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJ4Iwn65LCTrzZxWPU/giphy.gif" alt="Bye!! " width=600 title="Hello!!"/>](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hpaHYyZnFjbGRyZzhwcjQ4cG01eHVoZGNudTMxMW03cTRkMTRpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7TwYOahsPpIJABom26/giphy.gif) </div>
+**3. git pull**<br />
+    *What it does:* Downloads changes from the internet to your computer.<br />
+    *When to use it:* When others have made changes online, and you want to update your local copy.<br />
+    *Example:* git pull origin main<br /><br />
+
+**4. git log**<br />
+    *What it does:* Displays a log of all committed changes, including commit messages and details.<br />
+    *When to use it:* To review the history of your project and track the sequence of commits.<br />
+    *Example:* git log<br /><br />
+
+**5. git status**<br />
+    *What it does:* Shows you what changes you've made that haven't been saved yet.<br />
+    *When to use it:* When you want to see the current state of your project.<br />
+    *Example:* git status<br /><br />
+<hr>
+
+# <div align="center"> [<img src="https://media.giphy.com/media/hJ4Iwn65LCTrzZxWPU/giphy.gif" alt="Bye!! " width=600 title="Hello!!"/>](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hpaHYyZnFjbGRyZzhwcjQ4cG01eHVoZGNudTMxMW03cTRkMTRpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7TwYOahsPpIJABom26/giphy.gif) </div>
 
